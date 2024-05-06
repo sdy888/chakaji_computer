@@ -1,0 +1,13 @@
+[Unit]
+Description=led Service
+After=network.target
+
+[Service]
+ExecStart=/screenbash/a.out
+WorkingDirectory=/screenbash
+User=root
+Group=root
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
