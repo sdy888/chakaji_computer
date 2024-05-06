@@ -1,0 +1,12 @@
+[Unit]
+Description=4851A1B.service - 485Sensor for Circuit Breaker.
+After=network.target
+
+[Service]
+User=root
+Group=root
+WorkingDirectory=/screenbash
+ExecStart=/screenbash/screen.sh
+
+[Install]
+WantedBy=multi-user.target

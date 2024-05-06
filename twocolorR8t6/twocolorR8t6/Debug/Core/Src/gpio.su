@@ -1,0 +1,17 @@
+../Core/Src/gpio.c:32:6:yellowOn1	8	static
+../Core/Src/gpio.c:37:6:yellowOff1	8	static
+../Core/Src/gpio.c:41:6:yellowOn2	8	static
+../Core/Src/gpio.c:46:6:yellowOff2	8	static
+../Core/Src/gpio.c:50:6:yellowOn3	8	static
+../Core/Src/gpio.c:54:6:yellowOff3	8	static
+../Core/Src/gpio.c:58:6:yellowOn4	8	static
+../Core/Src/gpio.c:62:6:yellowOff4	8	static
+../Core/Src/gpio.c:66:6:yellowOn5	8	static
+../Core/Src/gpio.c:70:6:yellowOff5	8	static
+../Core/Src/gpio.c:74:6:yellowOn6	8	static
+../Core/Src/gpio.c:79:6:yellowOff6	8	static
+../Core/Src/gpio.c:83:6:yellowOn7	8	static
+../Core/Src/gpio.c:88:6:yellowOff7	8	static
+../Core/Src/gpio.c:92:6:ledInit	8	static
+../Core/Src/gpio.c:159:6:MX_GPIO_Init	40	static
+../Core/Src/gpio.c:246:6:for_delay_us	24	static,ignoring_inline_asm
